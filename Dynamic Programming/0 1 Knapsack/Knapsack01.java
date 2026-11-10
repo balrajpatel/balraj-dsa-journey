@@ -17,7 +17,7 @@ public class Knapsack01{
 
     static int knapsack(int wt[], int val[], int n, int W){
         if(W==0 || n == 0){
-            return t[n][W] = 0;
+            return t[W][n] = 0;
 
         }
 

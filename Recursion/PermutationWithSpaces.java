@@ -4,7 +4,7 @@ public class PermutationWithSpaces{
             System.out.println(op);
             return;
         }
-        String op1 = op;
+        String op1 = op + ip.charAt(0);
         String op2 = op + "_"+ ip.charAt(0);
         String ip1 = ip.substring(1);
 
