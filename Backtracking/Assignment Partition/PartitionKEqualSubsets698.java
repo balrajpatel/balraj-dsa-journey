@@ -1,5 +1,5 @@
 import java.util.*;
-public class PartitionKEqualSubsets {
+public class PartitionKEqualSubsets698 {
     public static boolean canPartitionKSubsets(int[] nums, int k) {
 
         int sum = 0;

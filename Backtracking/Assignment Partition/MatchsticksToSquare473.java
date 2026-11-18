@@ -1,5 +1,5 @@
 import java.util.*;
-public class MatchsticksToSquare {
+public class MatchsticksToSquare473 {
     public static boolean makesquare(int[] matchsticks) {
         int sum =0;
         for(int x: matchsticks){

@@ -1,5 +1,5 @@
 import java.util.*;
-public class FairDistributionOfCookies {
+public class FairDistributionOfCookies2305 {
 public static int distributeCookies(int[] cookies, int k) {
         int[] childs = new int[k];
         Arrays.sort(cookies);
